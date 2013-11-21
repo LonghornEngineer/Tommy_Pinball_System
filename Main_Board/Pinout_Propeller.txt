@@ -1,0 +1,34 @@
+Pinout of the Parallax Propeller for the Tommy System
+
+P0:  SD Card DO
+P1:  SD Card SCLK
+P2:  SD Card DI
+P3:  SD Card CS
+P4:  74HC595 Serial Data Out
+P5:  74HC165 Serial Data In
+P6:  Shared Data CLK
+P7:  Shared Data LAT
+P8:  DMD Data 5
+P9:  DMD Data 4
+P10: DMD Data 3
+P11: DMD Data 2
+P12: DMD Data 1
+P13: DMD Data 0
+P14: SRAM 0 CLK
+P15: SRAM 1 CLK
+P16: SRAM 0 SIO0
+P17: SRAM 0 SIO1
+P18: SRAM 0 SIO2
+P19: SRAM 0 SIO3
+P20: SRAM 1 SIO0
+P21: SRAM 1 SIO1
+P22: SRAM 1 SIO2
+P23: SRAM 1 SIO3
+P24: LED Serial Data Out
+P25: LED Clock 
+P26: Audio Left Channel
+P27: Audio Right Channel
+P28: i2c SCL
+P29: i2c SDA
+P30: RX 
+P31: TX
