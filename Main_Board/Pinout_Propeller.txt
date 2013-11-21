@@ -1,5 +1,3 @@
-Pinout of the Parallax Propeller for the Tommy System
-
 P0:  SD Card DO
 P1:  SD Card SCLK
 P2:  SD Card DI
