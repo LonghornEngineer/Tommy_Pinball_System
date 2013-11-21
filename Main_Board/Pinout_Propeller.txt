@@ -6,8 +6,8 @@ P4:  74HC595 Serial Data Out
 P5:  74HC165 Serial Data In
 P6:  Shared Data CLK
 P7:  Shared Data LAT
-P8:  DMD Data 5
-P9:  DMD Data 4
+P8:   DMD Data 5
+P09: DMD Data 4
 P10: DMD Data 3
 P11: DMD Data 2
 P12: DMD Data 1
