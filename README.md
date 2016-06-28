@@ -1,7 +1,7 @@
 Tommy_Pinball_System
 ====================
 
-A Pinball System based off the Parallax Propeller. Aimed at hobby use.
+A Pinball System based off the Parallax Propeller. Aimed at hobby use. This project is mothballed. See the PinHeck for future development.
 
 More information can be found on the Tommy project page.
 
